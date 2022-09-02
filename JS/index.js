@@ -21,12 +21,11 @@ window.addEventListener('DOMContentLoaded', () => {
 
 })
 
-function addName {
+function addName() {
   const yourName = document.getElementById('yourName');
-//ADD YOUR CODE TO MAKE YOUR NAME SHOW UP IN NAMES LIST
-  
-  
+  //ADD YOUR CODE TO MAKE YOUR NAME SHOW UP IN NAMES LIST
 }
+
 
 
 
