@@ -18,13 +18,23 @@ window.addEventListener('DOMContentLoaded', () => {
     counter++
   })
 
+<<<<<<< HEAD
+addName()
+=======
   addName()
+>>>>>>> 9e4e937e313309d86d110ff34e4c1b76cac3643c
 })
 
 function addName() {
   const yourName = document.getElementById('yourName');
+<<<<<<< HEAD
+  //ADD YOUR CODE TO MAKE YOUR NAME SHOW UP IN NAMES LIST
+  yourName.innerHTML = "Erick"
+  
+=======
   
   yourName.innerHTML = "Ryan"
+>>>>>>> 9e4e937e313309d86d110ff34e4c1b76cac3643c
 }
 
 
