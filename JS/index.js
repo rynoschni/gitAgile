@@ -18,8 +18,6 @@ window.addEventListener('DOMContentLoaded', () => {
     counter++
   })
   addName()
-
-
 })
 
 function addName() {
