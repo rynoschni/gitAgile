@@ -23,8 +23,8 @@ window.addEventListener('DOMContentLoaded', () => {
 
 function addName() {
   const yourName = document.getElementById('yourName');
-  
-  yourName.innerHTML = "Ryan"
+  //ADD YOUR CODE TO MAKE YOUR NAME SHOW UP IN NAMES LIST
+  yourName.innerHTML = `Moe Alghazouli`
 }
 
 
