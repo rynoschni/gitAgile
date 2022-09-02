@@ -18,7 +18,7 @@ window.addEventListener('DOMContentLoaded', () => {
     counter++
   })
 
-  addName();
+  addName()
 })
 
 function addName() {
