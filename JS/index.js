@@ -4,7 +4,7 @@ window.addEventListener('DOMContentLoaded', () => {
   const stepButton = document.getElementById('button');
   const orderList = document.getElementById('list');
 
-  let stepArr = ["Join repo invite", "Clone repo locally", "Create a branch with 'feature{yourName}'", "Add the code to make your name show up"]
+  let stepArr = ["Join repo invite", "Clone repo locally", "Create a branch with 'feature{yourName}'", "Add the code to the JS file to make your name show up"]
 
   let counter = 0;
 
