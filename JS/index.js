@@ -17,13 +17,14 @@ window.addEventListener('DOMContentLoaded', () => {
     stepButton.innerHTML = "Click for next Step";
     counter++
   })
-
+  addName();
 
 })
 
 function addName() {
   const yourName = document.getElementById('yourName');
   //ADD YOUR CODE TO MAKE YOUR NAME SHOW UP IN NAMES LIST
+  yourName.innerHTML = 'Kevin';
 }
 
 
