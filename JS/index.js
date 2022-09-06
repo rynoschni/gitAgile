@@ -24,7 +24,7 @@ window.addEventListener('DOMContentLoaded', () => {
 function addName() {
   const yourName = document.getElementById('yourName');
   //ADD YOUR CODE TO MAKE YOUR NAME SHOW UP IN NAMES LIST
-  yourName.innerHTML = `Moe Alghazouli`
+  yourName.innerHTML = `Brittanie Joseph`
 }
 
 
